@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "chunkSize": 5000000,
+  "data": {
+    "file": "BodyDrop.data",
+    "size": 23935818,
+    "sha256": "ba0e7bc33a2baed78a89eaaa810bbdadfd5037e2304916689d1dc14a93b238c0",
+    "parts": [
+      "BodyDrop.data.part000",
+      "BodyDrop.data.part001",
+      "BodyDrop.data.part002",
+      "BodyDrop.data.part003",
+      "BodyDrop.data.part004"
+    ],
+    "mime": "application/octet-stream"
+  },
+  "wasm": {
+    "file": "BodyDrop.wasm",
+    "size": 41807375,
+    "sha256": "f8023abe5236b089b6af4fc7ea840c11e51a696148edf8117e7c6f542622da70",
+    "parts": [
+      "BodyDrop.wasm.part000",
+      "BodyDrop.wasm.part001",
+      "BodyDrop.wasm.part002",
+      "BodyDrop.wasm.part003",
+      "BodyDrop.wasm.part004",
+      "BodyDrop.wasm.part005",
+      "BodyDrop.wasm.part006",
+      "BodyDrop.wasm.part007",
+      "BodyDrop.wasm.part008"
+    ],
+    "mime": "application/wasm"
+  }
+}
